@@ -1,0 +1,15 @@
+PROYECTO COMUNICA — ADAPTACIÓN DE DESKO
+
+CÓMO ABRIR
+1. Extrae la carpeta completa.
+2. Abre index.html en un navegador moderno.
+3. La página usa Bootstrap por CDN, así que requiere conexión a Internet para cargar esos estilos e iconos externos.
+
+ANTES DE ENTREGAR
+- En nosotros.html, reemplaza los nombres y descripciones de ejemplo por los integrantes reales.
+- En catalogo.html, añade las evidencias reales (imágenes/capturas) y describe cada trabajo.
+- En contactanos.html, cada aprendiz debe escribir su propia reflexión. Los textos marcados entre corchetes son campos por completar.
+- En blog.html, añade detalles del reto que efectivamente hicieron en clase.
+
+ARCHIVOS
+Se conservan los recursos gráficos de Desko y la hoja css/estilos.css, adaptada para esta versión académica.
